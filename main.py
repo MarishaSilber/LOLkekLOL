@@ -1,2 +1,2 @@
-print("gitDURAKфффффф"
+print("gitDUтолк2RAKфффффф"
       "")
