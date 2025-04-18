@@ -1,1 +1,2 @@
-print("gitDURAK")
+print("gitDURAKфффффф"
+      "")
